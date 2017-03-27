@@ -11,8 +11,8 @@ class Medium(BaseFeedBook):
     language              = 'zh-cn'
     feed_encoding         = "utf-8"
     page_encoding         = "utf-8"
-    max_articles_per_feed = 1
-    oldest_article        = 2
+    max_articles_per_feed = 20
+    oldest_article        = 1
     mastheadfile          = "mh_medium.gif"
     coverfile             = "cv_medium.jpg"
     network_timeout       = 60
