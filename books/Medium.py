@@ -13,8 +13,8 @@ class Medium(BaseFeedBook):
     page_encoding         = "utf-8"
     max_articles_per_feed = 1
     oldest_article        = 2
-    mastheadfile          = "mh_dapenti.gif"
-    coverfile             = "cv_dapenti.jpg"
+    mastheadfile          = "mh_medium.gif"
+    coverfile             = "cv_medium.jpg"
     network_timeout       = 60
     fetch_img_via_ssl     = False
     feeds = [
