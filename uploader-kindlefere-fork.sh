@@ -20,7 +20,7 @@ else
         # rm -rf ./KindleEar
         # git clone https://github.com/cdhigh/KindleEar.git
         cd ./KindleEar
-        git pull ./KindleEar
+        git pull
         cd ..
     fi
 fi
